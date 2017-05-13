@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
  <metadata>
-   <id>ToDoCDN-dicko2</id>
+   <id>ToDoCDN-wi</id>
    <title>ToDoCDN</title>
-   <authors>Joel Dickson</authors>
+   <authors>Waynika Pajcha</authors>
    <owners>Agoda</owners>
    <version>0.0.0.0</version>
    <description>CDN Package for distribution</description>
